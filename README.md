@@ -9,6 +9,7 @@ $ cd frontend-project-lvl1
 $ npm ci
 $ npm link
 ```
+[![asciicast](https://asciinema.org/a/n64lRfHbu79vEk6Y0rZclBp0X.svg)](https://asciinema.org/a/n64lRfHbu79vEk6Y0rZclBp0X)
 
 ### Usage
 #### Run brain-even game:
