@@ -1,4 +1,4 @@
-import { runEngine, getRandomArbitrary, ROUNDS_COUNT } from '../cli.js';
+import { runEngine, getRandomArbitrary, ROUNDS_COUNT } from '../index.js';
 
 const isEven = (number) => number % 2 === 0;
 
