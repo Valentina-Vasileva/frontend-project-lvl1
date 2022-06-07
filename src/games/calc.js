@@ -6,7 +6,7 @@ export default () => {
   const description = 'What is the result of the expression?';
   const questionsAndAnswers = [];
 
-  for (let gameNumber = 1; gameNumber <= ROUNDS_COUNT; gameNumber += 1) {
+  for (let round = 1; round <= ROUNDS_COUNT; round += 1) {
     const number1 = getRandomArbitrary(-100, 100);
     const number2 = getRandomArbitrary(-100, 100);
     const operation = OPERATIONS[getRandomArbitrary(0, 2)];
