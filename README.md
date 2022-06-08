@@ -12,14 +12,20 @@ $ npm link
 [![asciicast](https://asciinema.org/a/n64lRfHbu79vEk6Y0rZclBp0X.svg)](https://asciinema.org/a/n64lRfHbu79vEk6Y0rZclBp0X)
 
 ### Usage
-#### Run brain-even game:
+#### Run the brain-even game:
 ```console
 $ brain-even
 ```
 [![asciicast](https://asciinema.org/a/fV1gTApym1McxXdtL4WgZ0P0P.svg)](https://asciinema.org/a/fV1gTApym1McxXdtL4WgZ0P0P)
 
-#### Run brain-calc game:
+#### Run the brain-calc game:
 ```console
 $ brain-calc
 ```
 [![asciicast](https://asciinema.org/a/B2zSTpNGALxB2Pu62JSOMNkAY.svg)](https://asciinema.org/a/B2zSTpNGALxB2Pu62JSOMNkAY)
+
+#### Run the brain-gcd game:
+```console
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/R3jMidUEnBdgim1dS2fRlaIgZ.svg)](https://asciinema.org/a/R3jMidUEnBdgim1dS2fRlaIgZ)
